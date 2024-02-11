@@ -33,31 +33,31 @@ do{
             
             function getRank(nome,rank){
                 if(rank<=10){
-                    console.log("Herói de nome "+nome+" , aprtir dos seus dados de lutas você está no FERRO")
+                    console.log("Herói de nome "+nome+" , a parti dos seus dados de carreira você está no FERRO")
                 }
             
                 else if(rank<=20){
-                    console.log("Herói de nome "+nome+" , aprtir dos seus dados de lutas você está no BRONZE")
+                    console.log("Herói de nome "+nome+" , a parti dos seus dados de carreira você está no BRONZE")
                 }
             
                 else if(rank<=50){
-                    console.log("Herói de nome "+nome+" , aprtir dos seus dados de lutas você está no PRATA")
+                    console.log("Herói de nome "+nome+" , a parti dos seus dados de carreira você está no PRATA")
                 }
             
                 else if(rank<=80){
-                    console.log("Herói de nome "+nome+" , aprtir dos seus dados de lutas você está no OURO")
+                    console.log("Herói de nome "+nome+" , a parti dos seus dados de carreira você está no OURO")
                 }
             
                 else if(rank<=90){
-                    console.log("Herói de nome "+nome+" , aprtir dos seus dados de lutas você está no DIAMANTE")
+                    console.log("Herói de nome "+nome+" , a parti dos seus dados de carreira você está no DIAMANTE")
                 }
             
                 else if(rank<=100){
-                    console.log("Herói de nome "+nome+" , aprtir dos seus dados de lutas você está no LENDÁRIO")
+                    console.log("Herói de nome "+nome+" , a parti dos seus dados de carreira você está no LENDÁRIO")
                 }
             
                 else {
-                    console.log("Herói de nome "+nome+" , aprtir dos seus dados de lutas você está no IMORTAL")
+                    console.log("Herói de nome "+nome+" , a parti dos seus dados de carreira você está no IMORTAL")
                 }
             
         
@@ -89,31 +89,31 @@ do{
             
             function getRank(nome,rank){
                 if(rank<=10){
-                    console.log("Heroína de nome "+nome+" , aprtir dos seus dados de lutas você está no FERRO")
+                    console.log("Heroína de nome "+nome+" , a parti dos seus dados de carreira você está no FERRO")
                 }
             
                 else if(rank<=20){
-                    console.log("Heroína de nome "+nome+" , aprtir dos seus dados de lutas você está no BRONZE")
+                    console.log("Heroína de nome "+nome+" , a parti dos seus dados de carreira você está no BRONZE")
                 }
             
                 else if(rank<=50){
-                    console.log("Heroína de nome "+nome+" , aprtir dos seus dados de lutas você está no PRATA")
+                    console.log("Heroína de nome "+nome+" , a parti dos seus dados de carreira você está no PRATA")
                 }
             
                 else if(rank<=80){
-                    console.log("Heroína de nome "+nome+" , aprtir dos seus dados de lutas você está no OURO")
+                    console.log("Heroína de nome "+nome+" , a parti dos seus dados de carreira você está no OURO")
                 }
             
                 else if(rank<=90){
-                    console.log("Heroína de nome "+nome+" , aprtir dos seus dados de lutas você está no DIAMANTE")
+                    console.log("Heroína de nome "+nome+" , a parti dos seus dados de carreira você está no DIAMANTE")
                 }
             
                 else if(rank<=100){
-                    console.log("Heroína de nome "+nome+" , aprtir dos seus dados de lutas você está no LENDÁRIO")
+                    console.log("Heroína de nome "+nome+" , a parti dos seus dados de carreira você está no LENDÁRIO")
                 }
             
                 else {
-                    console.log("Heroína de nome "+nome+" , aprtir dos seus dados de lutas você está no IMORTAL")
+                    console.log("Heroína de nome "+nome+" , a parti dos seus dados de carreira você está no IMORTAL")
                 }
             
         
@@ -124,4 +124,3 @@ do{
     
 repetir=prompt("Se sim digite S ou s\nSe não digite qualquer coisa")
 }while(repetir=="s"||repetir=="S")
-
